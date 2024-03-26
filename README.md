@@ -1,24 +1,24 @@
 # Documentation of the Snake Game using C:--
 
-#Introduction:
+# Introduction:
 Briefly introduce the Snake game and its objective.
 Mention that the game will be implemented using C programming language.
 
-#Setup and Environment:
+# Setup and Environment:
 Discuss the setup required for development, including choosing an Integrated Development Environment (IDE) or a text editor and a C compiler.
 Explain how to create a new C file for the game code.
 
-#Libraries:
+# Libraries:
 List the necessary C libraries such as stdio.h, stdlib.h, conio.h (for Windows), and unistd.h (for Linux/Mac) for input/output operations, memory management, and console 
 manipulation.
 
-#Constants:
+# Constants:
 Define constants for the game, such as the size of the game board, initial snake length, and symbols for the snake and food.
 
-#Structures:
+# Structures:
 Define structures for the snake and the food, specifying their attributes.
 
-#Function Prototypes:
+# Function Prototypes:
 Declare function prototypes for various functionalities such as initializing the game, updating the game state, handling user input, etc.
 
 #Game Initialization:
