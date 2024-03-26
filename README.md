@@ -21,21 +21,21 @@ Define structures for the snake and the food, specifying their attributes.
 # Function Prototypes:
 Declare function prototypes for various functionalities such as initializing the game, updating the game state, handling user input, etc.
 
-#Game Initialization:
+# Game Initialization:
 Describe the initializeGame function responsible for setting up the initial state of the game, including placing the snake and food on the board.
 
-#Drawing the Board:
+# Drawing the Board:
 Explain the drawBoard function, which is used to display the game board, snake, and food on the console screen.
 
-#Updating the Game State:
+# Updating the Game State:
 Discuss the updateGame function responsible for handling game logic such as snake movement, collision detection, and updating the score.
 
-#Handling User Input:
+# Handling User Input:
 Describe the handleInput function used to get user input for controlling the snake's direction.
 
-#Main Function:
+# Main Function:
 Explain the main function's role in initializing the game, handling input, updating the game state, and displaying the board in a loop until the game is over.
 
-#Conclusion:
+# Conclusion:
 Summarize the key components of the Snake game implementation in C.
 Encourage further exploration and customization of the game.
